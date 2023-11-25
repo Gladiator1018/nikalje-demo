@@ -1,3 +1,4 @@
 # nikalje-demo
-This is my repository
+This is my Git repository.
+<br>
 Author - Gaurav Nikalje
